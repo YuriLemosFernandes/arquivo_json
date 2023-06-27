@@ -1,0 +1,19 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "usuário": "admin",
+      "senha": "admin"
+    },
+    {
+      "id": 2,
+      "usuário": "yuri",
+      "senha": "1234"
+    },
+    {
+      "usuário": "",
+      "senha": "",
+      "id": 3
+    }
+  ]
+}
